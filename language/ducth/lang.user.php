@@ -21,7 +21,7 @@ $lang = $L = array(
 "User",
 
 "user_module_description"		=>
-"Brings EE Template Functionality to EE's Built In Member abilities",
+"Gebruik EE templatefunctionaliteit in de Ledenmodule",
 
 //----------------------------------------
 //	Language for Content Wrapper
@@ -31,16 +31,16 @@ $lang = $L = array(
 "User",
 
 "documentation"	 =>
-"Online Documentation",
+"Online documentatie",
 
 "online_documentation"	 =>
-"Online Documentation",
+"Online documentatie",
 
 'user_preference' =>
-"Preference",
+"Voorkeur",
 
 'user_setting' =>
-"Setting",
+"Instelling",
 
 //----------------------------------------
 //	Language for home
@@ -54,202 +54,202 @@ $lang = $L = array(
 //----------------------------------------
 
 "upgrade"		 =>
-"Upgrade",
+"Upgraden",
 
 "upgrade_now"	 =>
-"Upgrade now!",
+"Nu upgraden!",
 
 "upgrade_message" =>
-"It looks like you have installed a new version of User. We recommend that you run the upgrade script",
+"Je hebt een nieuwe versie van User geïnstalleerd. Je kan best het updatescript een keer laten lopen.",
 
 "update_successful"			=>
-"The module was successfully updated.",
+"De update is geslaagd.",
 
 "update_failure"			=>
-"There was an error while trying to update your module to the latest version.",
+"De update is mislukt.",
 
 //----------------------------------------
 //	Language for find member
 //----------------------------------------
 
 "reassign_ownership"			=>
-"Reassign Ownership",
+"Eigenaarschap opnieuw toewijzen",
 
 "find_member"	 =>
-"Find Member",
+"Lid zoeken",
 
 'member_search' =>
-"Member Search",
+"Leden zoeken",
 
 "find_members_text" =>
-"Enter a username, screen name or email address below to find a member.",
+"Typ hieronder een gebruikersnaam, schermnaam of e-mailadres om een lid te vinden.",
 
 'find_entries_text_channel'	=>
-"Search for entries, NOT assigned to the above member, based on title and channel to reassign to selected member.",
+"Zoek berichten die NIET van het bovenstaande lid zijn, op basis van titel en kanaal, om ze opnieuw toe te wijzen aan het geselecteerde lid.",
 
 'find_entries_text_weblog'	=>
-"Search for entries, NOT assigned to the above member, based on title and weblog to reassign to selected member.",
+"Zoek berichten die NIET van het bovenstaande lid zijn, op basis van titel en weblog, om ze opnieuw toe te wijzen aan het geselecteerde lid.",
 
 "name"			 =>
-"Name",
+"Naam",
 
 'member_keywords' =>
-"Member Search",
+"Leden zoeken",
 
 'entry_title_keywords' =>
-"Entry Title",
+"Berichttitel",
 
 'choose_member' =>
-"Choose Member",
+"Lies lid",
 
 'assign_to_member' =>
-"Assign to Member",
+"Wijs toe aan lid",
 
 'channels' =>
-"Channels",
+"Kanalen",
 
 "missing_name"	 =>
-"Please submit a username, screen name or email address.",
+"Voer een gebruikernaam, schermnaam of e-mailadres in.",
 
 "no_results"	 =>
-"Your search returned no results. Please try again.",
+"Niets gevonden. Probeer het opnieuw.",
 
 'choose_entries' =>
-"Choose Entries",
+"Kies berichten",
 
 "submit"		 =>
-"Submit",
+"Verzenden",
 
 "no_results_channel" =>
-"Your search returned no results. Please try again.",
+"Niets gevonden. Probeer het opnieuw.",
 
 //----------------------------------------
 //	Language for find entries
 //----------------------------------------
 
 "select"		 =>
-"Select",
+"Selecteer",
 
 "username"		 =>
-"Username",
+"Gebruikersnaam",
 
 "screen_name"	 =>
-"Screen Name",
+"Schermnaam",
 
 "email"			 =>
-"Email",
+"E-mailadres",
 
 "entries"		 =>
-"Entries",
+"Berichten",
 
 "find_entries"	 =>
-"Find Entries",
+"Berichten zoeken",
 
 "title"			 =>
-"Title",
+"Titel",
 
 "entry_id"		 =>
-"Entry ID",
+"Bericht ID",
 
 "entry_date"	 =>
-"Entry Date",
+"Invoerdatum",
 
 "missing_title"	 =>
-"Please provide a title for your search.",
+"Voer een titel in voor je zoekopdracht.",
 
 "missing_member" =>
-"Please select a member from the list.",
+"Selecteer een lid in de lijst.",
 
 "submit_name"	 =>
-"Assign selected entries to %name.",
+"Wijs geselecteerde berichten toe aan %name.",
 
 "no_entries_selected"			=>
-"No entries selected.",
+"Geen berichten geselecteerd.",
 
 "reassign_ownership_confirm"	=>
-"Confirm Ownership Change",
+"Bevestig wijziging van eigenaar",
 
 "reassign_ownership_question_entry"	=>
-"Are you sure that you want to reassign the ownership of %i% entries to %name%?",
+"Ben je zeker dat je %i% berichten wil toewijzen aan to %name%?",
 
 "reassign_ownership_question_entries"	=>
-"Are you sure that you want to reassign the ownership of %i% entries to %name%?",
+"Ben je zeker dat je %i% berichten wil toewijzen aan to %name%?",
 
 "reassign"		 =>
-"Reassign",
+"Toewijzen",
 
 "missing_member_id" =>
-"The member to whom entries will be reassigned is missing.",
+"Het lid waar berichten aan moeten worden toegewezen, bestaat niet.",
 
 "entry_reassigned" =>
-"1 entry was successfully reassigned.",
+"1 bericht is succesvol toegewezen.",
 
 "entries_reassigned"			=>
-"%i% entries were successfully reassigned.",
+"%i% berichten zijn succesvol toegewezen.",
 
 //----------------------------------------
 //	Language for prefs
 //----------------------------------------
 
 "preferences"	 =>
-"Preferences",
+"Voorkeuren",
 
 "general_preferences"	 =>
-"General Preferences",
+"Algemene voorkeuren",
 
 "multiple_authors"	 =>
-"Multiple Authors",
+"Meerdere auteurs",
 
 "email_notifications"	 =>
-"Email Notifications",
+"E-mailwaarschuwingen",
 
 "email_is_username" =>
-"Email is Username",
+"E-mailadres is gebruikersnaam",
 
 "email_is_username_subtext"		=>
-"Set this field to yes in order to force usernames to inherit from the user's email address.",
+"Selecteer dit veld om de gebruikersnaam een afgeleide te laten zijn van het e-mailadres.",
 
 "category_groups" =>
-"Category Groups",
+"Categoriegroepen",
 
 "category_groups_subtext"			=>
-"Select the category groups on the right to indicate which categories users can be assigned to when using the User Categories feature.",
+"Selecteer rechts de categoriegroepen om aan te duiden aan welke categorieën gebruikers kunnen worden toegewezen als je de Gebruikerscategorieënfunctie gebruikt.",
 
 "missing_username" =>
-"Please provide a username.",
+"Vul een gebruikersnaam in.",
 
 "username_change_not_allowed"	=>
-"Your site is not set to allow username changes. The 'email is username' rule is not compatible with your current settings. Users must be allowed to change their usernames if their email address and username are considered the same on the site.",
+"Je siteinstellingen laten niet toe gebruikersnamen te wijzigen. De 'e-mailadres is gebruikersnaam'-functie is niet compatibel met je huidige instellingen. Gebruikers moeten toestemming hebben hun gebruikersnaam te wijzigen, als hun e-mailadres en gebruikersnaam dezelfde zijn.",
 
 "screen_name_override"			=>
-"Screen Name Override",
+"Schermnaam overschrijven",
 
 "screen_name_override_subtext"		=>
-"Indicate which custom member fields should be used to create the screen name. Separate fields with the pipe '|' character. Leaving this field blank will cause the screen name override function to be ignored.",
+"Duid aan welke custom velden gebruikt moeten worden om de schermnaam te maken. Scheid velden met een verticaal streepje (|). Als je dit veld leeg laat, wordt deze functie genegeerd.",
 
 "user_preferences_updated" =>
-"Your preferences have been updated.",
+"Je voorkeuren zijn bijgewerkt.",
 
 'welcome_email_subject'	 =>
-"Welcome Email Subject",
+"Onderwerp verwelkomingsmail",
 
 'welcome_email_content'	 =>
-"Welcome Email",
+"Verwelkomingsmail",
 
 'welcome_email_content_subtext'	 =>
-"Sends out a customized welcome email to the registered user when their registration is complete. If you do not want to have welcome emails sent, leave this area blank.<br /><br />Available variables are: <b>{site_name}</b>, <b>{site_url}</b>, <b>{screen_name}</b>, <b>{email}</b>, <b>{username}</b>, <b>{member_id}</b>.",
+"Stuur een aangepaste verwelkomingsmail naar de gebruiker als de registratie voltooid is. Als je geen e-mail wil sturen, laat dat dit vak leeg.<br /><br />Beschikbare variabelen zijn: <b>{site_name}</b>, <b>{site_url}</b>, <b>{screen_name}</b>, <b>{email}</b>, <b>{username}</b>, <b>{member_id}</b>.",
 
 'member_update'	 =>
-"Member Update",
+"Leden updaten",
 
 'member_update_admin_notification_emails' =>
-"Email(s) for Admin Notification on Profile Update",
+"E-mailadressen voor administratornotificaties bij updaten van profielen",
 
 'member_update_admin_notification_template' =>
-"Admin Notify of Profile Update Email Message",
+"E-mailbericht voor administratornotificaties bij updaten van profielen",
 
 'member_update_admin_notification_template_subtext' =>
-"Sends out a customized notification email to the email address(es) specified in the field above. All member variables are available, plus the <b>{changed}{/changed}</b> variable pair which enables the <b>{name}</b> (of the field) and <b>{value}</b> (the new value) variables. The {changed} variable pair will display the new values of the fields modified. Also available is the <b>{update_date}</b> variable and date formatting.",
+"Stuurt een aangepaste e-mail naar de hierboven opgegeven e-mailadressen. Alle ledenvariabelen zijn beschikbaar, aangevuld met de <b>{changed}{/changed}</b> variabele, waarbinnen de <b>{name}</b> (van het veld) en <b>{value}</b> (de nieuwe waarde) gebruikt kunnen worden. De {changed} variabele toont de nieuwe waarden van de aangepaste velden. De <b>{update_date}</b> variabele en datumschrijfwijze zijn ook beschikbaar.",
 
 //----------------------------------------
 //	Language for Edit
