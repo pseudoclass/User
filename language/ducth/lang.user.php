@@ -256,108 +256,108 @@ $lang = $L = array(
 //----------------------------------------
 
 'user_successful_submission' =>
-"Successful Submission!",
+"Goed verzonden!",
 
 "not_authorized" =>
-"You are not authorized to perform this action.",
+"Je hebt geen toestemming om dit te doen.",
 
 "cant_find_member" =>
-"We were unable to find the specified member.",
+"Dqt lid hebben we niet gevonden.",
 
 "incorrect_language"			=>
-"An incorrect language was selected.",
+"Er is een foute taal geselecteerd.",
 
 "super_admin_group_id"			=>
-"You're kidding right? You really want to change your member group status from Super Admin to something else? We just can't let you do that here. You'll have to go into the EE CP.",
+"Maak je een grapje? Wil je echt je status veranderen van Super Admin in iets anders? Dat kunnen we je hier niet laten doen. Je zal dat via het ExpressionEngine Control Panel moeten doen.",
 
 "current_password_required"		=>
-"In order to make a password change, your current password is required.",
+"Om het wachtwoord te kunnen veranderen, moet je je huidige wachtwoord opgeven.",
 
 "current_password_required_email"		=>
-"In order to make an email address change, your current password is required.",
+"Om je e-mailadres te kunnen veranderen, moet je je huidige wachtwoord opgeven.",
 
 "username_change_not_allowed"	=>
-"This website does not permit username changes.",
+"Je kan geen gebruikersnamen wijzigen op deze website.",
 
 "missing_fields" =>
-"The following fields are required: <ul><li>%fields%</li></ul>",
+"De volgende velden zijn verplicht: <ul><li>%fields%</li></ul>",
 
 "avatar_uploads_not_enabled"	=>
-"Avatar uploads are not currently enabled.",
+"Je kan geen avatars uploaden.",
 
 "photo_uploads_not_enabled"		=>
-"Member photo uploads are not currently enabled.",
+"Je kan geen foto's uploaden.",
 
 "sig_uploads_not_enabled"		=>
-"Signature image uploads are not currently enabled.",
+"Je kan geen afbeeldingen voor handtekeningen uploaden.",
 
 "gd_required"	 =>
-"The GD image library is required for this action. Please contact customer support.",
+"GD Image is vereist om dit te kunnen doen. Contacteer de klantendienst.",
 
 "image_max_size_exceeded"		=>
-"The maximum filesize for image uploads is %s. Please go back and choose a different file to upload.",
+"Het maximale bestandformaat om afbeeldingen te uploaden is %s. Ga terug en kies een ander bestand om up te loaden.",
 
 "missing_upload_path"			=>
-"The upload path for this type of image is missing or incorrect. Please contact customer support.",
+"Het uploadpad voor dit type van afbeeldingen is niet ingevuld of fout. Contacteer de klantendienst.",
 
 "invalid_image_type"			=>
-"The type of image you are attempting to upload is not an allowed type.",
+"Het type afbeelding dat je probeert te uploaden is niet toegelaten.",
 
 "password_changed" =>
-"You have changed your password. You will need to log back in with your new password.",
+"Je hebt je wachtwoord gewijzigd. Je zal opnieuw moeten inloggen met je nieuwe wachtwoord.",
 
 "us"			 =>
-"United States",
+"Verenigde Staten",
 
 "eu"			 =>
-"European",
+"Europees",
 
 "success"		 =>
-"Success!",
+"Gelukt!",
 
 "return"		 =>
-"Return",
+"Terug",
 
 //----------------------------------------
 //	Language for group edit
 //----------------------------------------
 
 "incorrect_editable_group"		=>
-"You incorrectly indicated the editable groups for this function.",
+"Je hebt de bewerkbare groepen niet juist aangeduid voor deze functie.",
 
 "no_data"		 =>
-"No data was sent.",
+"Er is geen data verzonden.",
 
 "member_list_error" =>
-"There was an error in the list of members provided.",
+"Er zit een fout in de opgegeven ledenlijst.",
 
 'member_group_updated' =>
-"The Member Group was updated successfully.",
+"De ledengroep is goed geüpdateted.",
 
 //----------------------------------------
 //	Language for Register
 //----------------------------------------
 
 "registration_not_enabled"		=>
-"Registrations are currently not allowed.",
+"Registraties zijn momenteel niet toegelaten.",
 
 "mbr_you_are_registered"		=>
-"You are already registered and logged in.",
+"Je bent al geregistreerd en ingelogd.",
 
 "prohibited_username" =>
-"The username you provided is prohibited in the system. Please choose a different username.",
+"De gebruikersnaam die je hebt opgegeven is niet toegelaten. Kies een andere gebruikersnaam.",
 
 "email_required" =>
-"An email address is required in order to register.",
+"Een e-mailadres is verplicht om je te kunnen registreren.",
 
 "user_field_required"			=>
-"The following are required member fields:<ul>%s</ul>",
+"De volgende velden zijn verplichte ledenvelden:<ul>%s</ul>",
 
 "captcha_required" =>
-"A captcha image is required in order to register.",
+"Een captcha afbeelding is verplicht om je te kunnen registreren.",
 
 "mbr_terms_of_service_required"	=>
-"Acceptance of the Terms of Service is required for registration.",
+"Akkoord gaan met de voorwaarden is verplicht om je te kunnen registreren.",
 
 "banned_screen_name"			=>
 "A screen name was created for you using these values: %s. That screen name is banned on this site. You will either need to alter the contents of one of the values you provided or contact the site administrator for help.",
