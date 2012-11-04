@@ -360,19 +360,19 @@ $lang = $L = array(
 "Akkoord gaan met de voorwaarden is verplicht om je te kunnen registreren.",
 
 "banned_screen_name"			=>
-"A screen name was created for you using these values: %s. That screen name is banned on this site. You will either need to alter the contents of one of the values you provided or contact the site administrator for help.",
+"Er is een schermnaam gemaakt op basis van deze waarden: %s. Die schermnaam is niet toegelaten op deze website. Je zal dus de inhoud van enkele velden moeten wijzigen, of de sitebeheerder moeten contacteren.",
 
 "bad_screen_name" =>
-"A screen name was created for you using these values: %s. Screen names must be unique. You will either need to alter the contents of one of the values you provided or contact the site administrator for help.",
+"Er is een schermnaam gemaakt op basis van deze waarden: %s. Schermnamen moeten uniek zijn. Je zal dus de inhoud van enkele velden moeten wijzigen, of de sitebeheerder moeten contacteren.",
 
 "banned_username" =>
-"The username you submitted has been banned from the site.",
+"De gebruikersnaam die je hebt opgegeven is geband van deze website.",
 
 "invalid_member_group"			=>
-"The indicated member group is invalid. Please contact customer support.",
+"De aangeduide ledengroep is ongeldig. Contacteer de klantendienst.",
 
 "wrong_reg_mode" =>
-"The form you submitted allows you to register for the site at the time of your submission. However, the site does not allow for immediate registrations. Please contact the webmaster and let them know about this error message.",
+"Het formulier dat je hebt verzonden laat het toe om je onmiddellijk te registreren. De site zelf laat dat echter niet toe. Contacteer de webmaster en licht hem in over deze foutmelding.",
 
 
 
@@ -381,53 +381,53 @@ $lang = $L = array(
 //----------------------------------------
 
 "back"			 =>
-"Back",
+"Terug",
 
 "key_created"	 =>
-"Key Created",
+"Code aangemaakt",
 
 "key_expiration"	 =>
-"Key Expiration",
+"Code vervalt",
 
 "key_expiration_subtext"	 =>
-"Number of days after sending a person a key/inviation that it expires, default is 7 days.",
+"Aantal dagen waarna de code vervalt, nadat er een code/uitnodiging is verzonden naar iemand. Standaard is 7 dagen.",
 
 "key_success"	 =>
-"The Registration Keys were successfully created and emailed.",
+"De registratiecode is aangemaakt en gemaild.",
 
 "key_required"	 =>
-"A valid invitation key is required before joining this website. Please obtain a key.",
+"Een geldige registratiecode is vereist om te kunnen registreren op deze website.",
 
 "key_incorrect"	 =>
-"The invitation key that you entered is not valid. Invitation keys expire after %s day(s). Please try again.",
+"De code die je hebt ingegeven is ongeldig. Activatiecodes vervallen na %s dag(en). Probeer het opnieuw.",
 
 "key_email_match_required"		=>
-"The email address submitted did not match the key to which it was matched. Please go back and try again.",
+"Het opgegeven e-mailadres komt niet overeen met de code die er aan is gekoppeld. Ga terug en probeer het opnieuw.",
 
 "template_not_found"			=>
-"The specified invitation template could not be found.",
+"De opgegeven uitnodigingstemplate kan niet gevonden worden.",
 
 "you_are_invited_to_join"=>
-"You are invited to join",
+"Je bent uitgenodigd je te registreren",
 
 //----------------------------------------
 //	Language for Search
 //----------------------------------------
 
 "search_path_error" =>
-"There was template specified to show search results.",
+"Er is geen template opgegeven om zoekresultaten te tonen.",
 
 "search_not_allowed"			=>
-"You are not currently allowed to search.",
+"Je hebt geen toestemming om te zoeken.",
 
 "search_time_not_expired"		=>
-"You are only allowed to search every %x seconds.",
+"Je mag slechts een keer per %x seconden zoeken.",
 
 "page"			 =>
-"Page",
+"Pagina",
 
 "of"			 =>
-"of",
+"van",
 
 
 //----------------------------------------
@@ -435,112 +435,111 @@ $lang = $L = array(
 //----------------------------------------
 
 'user_delete_confirm'			=>
-"Please confirm that you want to permanently delete this account and all associated content.",
+"Bevestig dat je dit account en alle gelinkte inhoud permanent wil verwijderen.",
 
 //----------------------------------------
 //	Forgotten Username Email
 //----------------------------------------
 
 'forgotten_username_sent' =>
-"An email with your forgotten username has been sent.",
+"Er is een e-mail gestuurd met daarin je gebruikersnaam.",
 
 'forgotten_username_subject' =>
-"Forgotten Username",
+"Gebruikersnaam vergeten",
 
 'user_forgot_username_message' =>
-"Forgot Username Email Message",
+"Vergeten gebruikersnaam e-mailbericht",
 
 'user_forgot_username_message_subtext' =>
-"Sends out a customized email with username details to the user that requested their username details to be sent via the User:Forgot_Username function.<br /><br />Available variables are: <b>{site_name}</b>, <b>{site_url}</b>, <b>{screen_name}</b>, <b>{email}</b>, <b>{username}</b>, <b>{member_id}</b>.",
+"Stuurt een e-mail met details over de gebruikersnaam, naar de gebruiker die gevraagd heeft zijn gegevens opnieuw te versturen met de User:Forgot_Username functie.<br /><br />Beschikbare variabelen zijn: <b>{site_name}</b>, <b>{site_url}</b>, <b>{screen_name}</b>, <b>{email}</b>, <b>{username}</b>, <b>{member_id}</b>.",
 
 //----------------------------------------
 //	Language for Tab
 //----------------------------------------
 
 "no_matching_authors"			=>
-"No matching authors were found.",
+"Er zijn geen auteurs gevonden.",
 
 "no_author_id"	 =>
-"No author id was provided.",
+"Er is geen auteur-id opgegeven.",
 
 "author_not_assigned"			=>
-"The author was not assigned to this entry.",
+"De auteur is niet aan dit bericht toegewezen.",
 
 "successful_add" =>
-"The author was added successfully.",
+"De auteur is toegevoegd.",
 
 'remove' =>
-"Remove",
+"Verwijder",
 
 'add' =>
-"Add",
+"Voeg toe",
 
 'loading_users' =>
-'Loading User List',
+'Gebruikerslijst laden',
 
 /** --------------------------------------------
 /**  Errors
 /** --------------------------------------------*/
 
 'disable_module_to_disable_extension' =>
-"To disable this extension, you must disable its corresponding <a href='%url%'>module</a>.",
+"Om deze extensie uit te schakelen, moet je de bijbehorende <a href='%url%'>module</a> uitschakelen.",
 
 'enable_module_to_enable_extension' =>
-"To enable this extension, you must install its corresponding <a href='%url%'>module</a>.",
+"Om deze extensie in te schakelen, moet je de bijbehorende <a href='%url%'>module</a> inschakelen.",
 
 'cp_jquery_requred' =>
-"The 'jQuery for the Control Panel' extension must be <a href='%extensions_url%'>enabled</a> to use this module.",
+"De 'jQuery for the Control Panel' extensie moet <a href='%extensions_url%'>ingeschakeld</a> zijn om deze module te kunnn gebruiken.",
 
 /** --------------------------------------------
 /**  Update Routine
 /** --------------------------------------------*/
 
 'update_user_module' =>
-"Update the User Module",
+"User updaten",
 
 'user_update_message' =>
-"You have recently uploaded a new version of User, please click here to run the update script.",
+"Je hebt een nieuwe versie van User geüploaded. Klik hier om het update script uit te voeren.",
 
 'user_authors_publish_tab_label' => 
-'Publish Tab Label',
+'Publish tab label',
 
 'user_authors_instructions'		=> 
-'You can customize the label of the user authors tab per weblog/channel using the fields below. 
-If you prefer not to show the tab for a weblog, leave the respective field blank.',
+'Je kan het label van de auteurstab per channel wijzigen met de velden hieronder. Als je de tab niet wil tonen in een channel, laat dan het bijbehorende veld leeg.',
 
 //----------------------------------------
 //	Language for Tab
 //----------------------------------------
 
 "browse_authors_instructions"	=>
-"Browse for authors using the field. Click an author's name to add them to the entry.",
+"Bekijk de auteurs met dit veld. Klik op een naam om de auteur toe te voegen aan het bericht.",
 
 "choose_author_instructions"	=>
-"Choose a authors from the user list.",
+"Kies een auteur uit de gebruikerslijst.",
 
 "assigned_authors_instructions"	=>
-"Indicate the primary author using the radio button.",
+"Duid de hoofdauteur aan met het keuzerondje.",
 
 "browse_authors" =>
-"Browse Authors",
+"Bekijk auteurs",
 
 "assigned_authors" =>
-"Assigned Authors",
+"Toegewezen auteurs",
 
 "primary_author" =>
-"Primary Author",
+"Hoofdauteur",
 
 'choose_a_primary_author' =>
-"Choose a Primary Author",
+"Kies een hoofdauteur",
 
 "user_authors_confirm_delete" =>
-"Are you sure that you want to remove this person as one of the authors of the entry?",
+"Ben je zeker dat je deze persoon wil verwijderen als auteur van dit bericht?",
 
 'remove' =>
-"Remove",
+"Verwijder",
 
 'add' =>
-"Add",
+"Voeg toe",
 
 'user_module_version' =>
 "User",
