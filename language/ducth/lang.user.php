@@ -501,10 +501,10 @@ $lang = $L = array(
 'user_update_message' =>
 "Je hebt een nieuwe versie van User geüploaded. Klik hier om het update script uit te voeren.",
 
-'user_authors_publish_tab_label' => 
+'user_authors_publish_tab_label' =>
 'Publish tab label',
 
-'user_authors_instructions'		=> 
+'user_authors_instructions'		=>
 'Je kan het label van de auteurstab per channel wijzigen met de velden hieronder. Als je de tab niet wil tonen in een channel, laat dan het bijbehorende veld leeg.',
 
 //----------------------------------------
